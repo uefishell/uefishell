@@ -5,5 +5,5 @@
 
 # Kernel Drivers
 <a href="https://github.com/uefishell/data-ptr-driver"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uefishell&repo=data-ptr-drv&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uefishell&repo=data-ptr-driver&theme=dark" />
 </a>
