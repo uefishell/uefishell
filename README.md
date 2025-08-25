@@ -7,3 +7,6 @@
 <a href="https://github.com/uefishell/data-ptr-driver"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uefishell&repo=data-ptr-driver&theme=dark" />
 </a>
+<a href="https://github.com/uefishell/ioctl-kernel-driver"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uefishell&repo=ioctl-kernel-driver&theme=dark" />
+</a>
